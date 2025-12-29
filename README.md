@@ -186,9 +186,8 @@ Built with a focus on Cloud Security, DevSecOps, and Secure-by-Design principles
 If this repository helps you, consider starring ⭐ it!
 
 -------------------------------------------------------------------------------------------
-
-
-
+⭐⭐⭐ GAMAR-RAHMAN
+Cybersecurity Analyst | cloud security | AI - ML | I build hands-on labs, automate security workflows.
 
 
 
